@@ -2,7 +2,7 @@
 
 A clean, responsive personal portfolio website built with **React + Vite**, designed to showcase projects, skills, and experience to recruiters and hiring managers.
 
-🌐 **Live Site:** [yogeshpande.vercel.app](https://yogeshpande.vercel.app)
+🌐 **Live Site:** ["https://portfolio-website-jhm5.vercel.app/"]
 
 ---
 
@@ -82,7 +82,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+Open [https://portfolio-website-jhm5.vercel.app/] in your browser.
 
 ### Build for Production
 
@@ -129,10 +129,7 @@ To personalise this portfolio for yourself, update the following:
 
 ---
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+--
 
----
-
-<p align="center">Built with ❤️ by Yogesh Pande</a></p>
+<p align="center">Built by Yogesh Pande</a></p>
