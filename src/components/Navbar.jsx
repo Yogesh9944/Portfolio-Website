@@ -33,7 +33,7 @@ export default function Navbar() {
             </li>
           ))}
           <li>
-            <a href="https://drive.google.com/file/d/1xcpP8vF39WPyp9TPBoVDJYs62zq00eQN/view?usp=sharing" target="_blank" rel="noreferrer" className="btn btn-primary nav-cta">
+            <a href="https://drive.google.com/file/d/1TNlxa5a3aUmLYg6CfPnSoSfWYus8JAAM/view?usp=sharing" target="_blank" rel="noreferrer" className="btn btn-primary nav-cta">
               Resume
             </a>
           </li>
