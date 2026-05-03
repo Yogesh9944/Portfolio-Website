@@ -47,7 +47,7 @@ export default function Navbar() {
           {links.map(l => (
             <button key={l} onClick={() => scrollTo(l)} className="mobile-link">{l}</button>
           ))}
-          <a href="https://drive.google.com/file/d/1xcpP8vF39WPyp9TPBoVDJYs62zq00eQN/view?usp=sharing" target="_blank" rel="noreferrer" className="btn btn-primary" style={{marginTop:'8px'}}>
+          <a href="https://drive.google.com/file/d/1TNlxa5a3aUmLYg6CfPnSoSfWYus8JAAM/view?usp=sharing" target="_blank" rel="noreferrer" className="btn btn-primary" style={{marginTop:'8px'}}>
             Resume
           </a>
         </div>
