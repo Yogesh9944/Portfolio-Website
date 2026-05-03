@@ -79,7 +79,7 @@ export default function Hero() {
           <a href="#projects" className="btn btn-primary">
             View My Work <ArrowDown size={16} />
           </a>
-          <a href="https://drive.google.com/file/d/154KGtAo7GRg1Gi_1PN4Csg2oUqYWmxmO/view?usp=sharing" target="_blank" rel="noreferrer" className="btn btn-outline">
+          <a href="https://drive.google.com/file/d/1TNlxa5a3aUmLYg6CfPnSoSfWYus8JAAM/view?usp=sharing" target="_blank" rel="noreferrer" className="btn btn-outline">
             Download Resume <ExternalLink size={14} />
           </a>
         </div>
